@@ -12,4 +12,4 @@ Website: https://eaglelive.xyz
 Panel: https://panel.eaglelive.xyz
 Invite: https://eaglelive.xyz/davet
 
-https://media.discordapp.net/attachments/764952059874377799/799620828337274900/dahaguzel.gif
+![eaglelive](https://user-images.githubusercontent.com/67864043/124507933-842a3d80-ddd7-11eb-9fd2-55361e58cf92.gif)
