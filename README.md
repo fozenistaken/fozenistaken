@@ -8,5 +8,8 @@
 
 ## My Discord Bot
 
-https://bit.ly/boteagle
+Website: https://eaglelive.xyz
+Panel: https://panel.eaglelive.xyz
+Invite: https://eaglelive.xyz/davet
 
+https://media.discordapp.net/attachments/764952059874377799/799620828337274900/dahaguzel.gif
