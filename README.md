@@ -6,4 +6,7 @@
 
 ![fozenistakens's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fozenistaken)
 
-![fozenistakens's Discord Bot](https://bit.ly/boteagle)
+## My Discord Bot
+
+https://bit.ly/boteagle
+
