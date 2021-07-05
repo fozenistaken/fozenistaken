@@ -6,6 +6,4 @@
 
 ![fozenistakens's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fozenistaken)
 
-### Name? Development
-
-[![Name? Development](https://cdn.discordapp.com/attachments/764170614872735795/764593140555317298/PicsArt_10-10-11.05.15.jpg)](https://discord.gg/uBjUEVE)
+![fozenistakens's Discord Bot](https://bit.ly/boteagle)
