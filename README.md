@@ -1,6 +1,6 @@
 ### hey, I'm fozen
 
-Building Discord tools & bots. TypeScript / JavaScript.
+Building stuff ig.
 
 ---
 
