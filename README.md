@@ -2,6 +2,9 @@
 
 Building whatever I am interested in at the of the day.
 
+https://purefx.dev/
+https://windyslums.com/
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
